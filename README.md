@@ -1,7 +1,14 @@
-### Hi! I´m Mauricio Camilo, an Electronic Engineer studing programming languages
+ <h1>
+   Hi, I´m Mauricio Camilo, welcome to my profile.
+  </h1>
+ 
+ <h2>
+       ✒ About me
+  </h2>
 
-🌱 I’m currently learning Web Full-Stack Development At Driven Education.
-
+🌱 I’m currently learning Web Full-Stack Development At Driven Education. <br><br/>
+📚 Graduated in Electronic Engineer at Faculdade de Engenharia São Paulo.
+  
 <div>
   <a href="https://github.com/Mauricio-Camilo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Camilo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -23,7 +30,7 @@
   </div>
   
   <h2>
-      📫 Other Medias
+      📫 Contact
   </h2>
   
   <div> 
