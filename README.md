@@ -1,5 +1,5 @@
  <h1>
-   Hi, I´m Mauricio Camilo, welcome to my profile.
+   Welcome to my profile.
   </h1>
  
  <h2>
