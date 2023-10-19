@@ -6,8 +6,8 @@
        ✒ About me
   </h2>
 
-🌱 I’m currently learning Web Full-Stack Development At Driven Education. <br><br/>
-📚 Graduated in Electronic Engineer at Faculdade de Engenharia São Paulo.
+🌱 I’m currently working as Full-Stack Developer At Match It. <br><br/>
+📚 Concluded a Full-Stack Development bootcamp at Driven Education.
   
 <div>
   <a href="https://github.com/Mauricio-Camilo">
