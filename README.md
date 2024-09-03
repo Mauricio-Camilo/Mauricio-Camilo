@@ -3,7 +3,7 @@
   </h1>
  
  <h2>
-       ✒ About me
+       About me
   </h2>
 
 💻 I’m currently working as DevOps Engineer at MatchIT. <br><br/>
