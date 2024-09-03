@@ -2,10 +2,6 @@
    Hi, I'm Mauricio Camilo from Brazil.
   </h1>
  
- <h2>
-       About me
-  </h2>
-
 💻 I’m currently working as DevOps Engineer at MatchIT. <br><br/>
 🌱 I’m currently studying in the DevOps Bootcamp by TechWorld with Nana. <br><br/>
 ⚡  I love to play soccer and japanese drummings called Taiko. <br><br/>
@@ -13,7 +9,7 @@
   
   
   <h2>
-      Technologies
+      🔧 Technologies
   </h2>
   
   <div>
@@ -34,7 +30,7 @@
   </div>
 
    <h2>
-      Certifications
+     🎖 Certifications
    </h2>
    <div>
     <ul>
@@ -43,21 +39,21 @@
     </ul>
    </div>
 
-  <div>
-   <br><br/>
-  </div>
-
+   <h2>
+      📊 Github Stats
+   </h2>
   <div>
    <a href="https://github.com/Mauricio-Camilo">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Camilo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Camilo&layout=compact&langs_count=7&theme=blue-green"/>
   </div>
   
-  <h2>
+
+  <!--
+    <h2>
       📫 Contact
   </h2>
 
-  <!--
   <div> 
   <a href="https://www.linkedin.com/in/mauricio-camilo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href = "mailto:mauricio.ecamilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -80,4 +76,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🏆
 -->
