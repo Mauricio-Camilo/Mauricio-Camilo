@@ -1,53 +1,71 @@
  <h1>
-   Welcome to my profile.
+   Hi, I'm Mauricio Camilo from Brazil.
   </h1>
  
  <h2>
        ✒ About me
   </h2>
 
-🌱 I’m currently working as Full-Stack Developer At Match It. <br><br/>
-📚 Concluded a Full-Stack Development bootcamp at Driven Education.
+💻 I’m currently working as DevOps Engineer at MatchIT. <br><br/>
+🌱 I’m currently studying at DevOps Bootcamp from TechWorld With Nana. <br><br/>
+⚡  I love to play soccer and japanese drummings called Taiko. <br><br/>
+📫 Reach me at mauricio.ecamilo@gmail.com
   
-<div>
-  <a href="https://github.com/Mauricio-Camilo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Camilo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Camilo&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
   
   <h2>
-      ⚡ Technologies
+      Technologies
   </h2>
   
   <div>
+   <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+     <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+     <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+     <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+     <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+     <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+     <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
    <img align="center" height="50" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
+  </div>
 
+   <h2>
+      Certifications
+   </h2>
+   <div>
+    <ul>
+     <li>Bootcamp DevOps Cloud certified at <a href="https://app.thecloudbootcamp.com/certificates/meifcscibs" target="_blank">The Cloud Bootcamp</a>.</li>
+      <li>Bootcamp Amazon Web Services at <a href="https://app.thecloudbootcamp.com/certificates/sibyegzvur" target="_blank">The Cloud Bootcamp</a>.</li>
+    </ul>
+   </div>
 
+  <div>
+   <br><br/>
+  </div>
 
+  <div>
+   <a href="https://github.com/Mauricio-Camilo">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Camilo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Camilo&layout=compact&langs_count=7&theme=blue-green"/>
   </div>
   
   <h2>
       📫 Contact
   </h2>
-  
+
+  <!--
   <div> 
   <a href="https://www.linkedin.com/in/mauricio-camilo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href = "mailto:mauricio.ecamilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+-->
 
   
-  
+ 
 
 <!--
 **Mauricio-Camilo/Mauricio-Camilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
