@@ -3,7 +3,7 @@
   </h1>
  
 💻 I’m currently working as DevOps Engineer at Minsait. <br><br/>
-🌱 I’m currently studying in the DevOps Bootcamp by TechWorld with Nana. <br><br/>
+🌱 I’m currently studying for achieving AWS certifications. <br><br/>
 ⚡  I love to play soccer and japanese drummings called Taiko. <br><br/>
 📫 Reach me at mauricio.ecamilo@gmail.com
   
@@ -34,8 +34,8 @@
    </h2>
    <div>
     <ul>
-     <li>Bootcamp DevOps Cloud certified at <a href="https://app.thecloudbootcamp.com/certificates/meifcscibs" target="_blank">The Cloud Bootcamp</a>.</li>
-      <li>Bootcamp Amazon Web Services at <a href="https://app.thecloudbootcamp.com/certificates/sibyegzvur" target="_blank">The Cloud Bootcamp</a>.</li>
+     <li>Certified DevOps Pratictioner at <a href="[https://app.thecloudbootcamp.com/certificates/meifcscibs" target="_blank">TechWorld With Nana](https://www.credly.com/badges/b27dfaa8-3b6b-48b7-ba86-0803aa3d8654/linked_in_profile)</a>.</li>
+      <li>AWS Certified Cloud Pratictioner at <a href="[https://app.thecloudbootcamp.com/certificates/sibyegzvur" target="_blank](https://www.credly.com/badges/ec9070fc-9418-44c9-9ecd-2c292c38bde0/linked_in_profile)">AWS</a>.</li>
     </ul>
    </div>
 
