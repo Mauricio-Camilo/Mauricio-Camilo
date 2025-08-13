@@ -34,8 +34,14 @@
    </h2>
    <div>
     <ul>
-     <li>Certified DevOps Pratictioner at <a href="[https://app.thecloudbootcamp.com/certificates/meifcscibs" target="_blank">TechWorld With Nana](https://www.credly.com/badges/b27dfaa8-3b6b-48b7-ba86-0803aa3d8654/linked_in_profile)</a>.</li>
-      <li>AWS Certified Cloud Pratictioner at <a href="[https://app.thecloudbootcamp.com/certificates/sibyegzvur" target="_blank](https://www.credly.com/badges/ec9070fc-9418-44c9-9ecd-2c292c38bde0/linked_in_profile)">AWS</a>.</li>
+     <li>Certified DevOps Practitioner at 
+      <a href="https://www.credly.com/badges/b27dfaa8-3b6b-48b7-ba86-0803aa3d8654/linked_in_profile" target="_blank">
+        TechWorld With Nana
+      </a>.</li>
+      <li>AWS Certified Cloud Practitioner at 
+      <a href="https://www.credly.com/badges/ec9070fc-9418-44c9-9ecd-2c292c38bde0/linked_in_profile" target="_blank">
+        AWS
+      </a>.</li>
     </ul>
    </div>
 
