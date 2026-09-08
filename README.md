@@ -2,7 +2,7 @@
    Hi, I'm Mauricio Camilo from Brazil.
  </h1>
  
-💻 I’m currently working as DevOps Engineer at Minsait. <br><br/>
+💻 I’m currently working as DevOps Engineer at Virtusa. <br><br/>
 🌱 I’m currently studying for achieving AWS certifications. <br><br/>
 ⚡  I love to play soccer and japanese drummings called Taiko. <br><br/>
 📫 Reach me at mauricio.ecamilo@gmail.com
